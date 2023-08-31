@@ -10,7 +10,7 @@ Conventional credit scoring methods like credit history, collateral, or any prio
 
 ## Key Features of our Solution     
   1. Credit Score Prediction without credit or loan history, collateral, or any prior account information.
-  2. AI 2-based solution solution and generating scoring metrics based on different parameters
+  2. AI based solution solution and generating scoring metrics based on different parameters
   3. Providing the best Ai AI-generated recommendation to improve the Score according to person present conditions.
      
 Website Link: https://credit-ease.vercel.app/  
