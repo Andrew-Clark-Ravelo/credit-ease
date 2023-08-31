@@ -7,22 +7,19 @@ Conventional credit scoring methods like credit history, collateral, or any prio
 
 
 ## Get a credit score using AI, even without a credit history. 
-Website Link: https://credit-ease.vercel.app/
-Video Link: https://youtu.be/Dt654Q-2Ads
-![credit ease](home.png)
 
 ## Key Features of our Solution     
   1. Credit Score Prediction without credit or loan history, collateral, or any prior account information.
   2. AI 2-based solution solution and generating scoring metrics based on different parameters
-  3. Providing the best Ai AI-generated recommendation to improve the Score according to person present conditions.    
+  3. Providing the best Ai AI-generated recommendation to improve the Score according to person present conditions.
+     
+Website Link: https://credit-ease.vercel.app/  
+
+Video Link: https://youtu.be/Dt654Q-2Ads
 
 
-
-All the fiiles are present in this repository 
-
-
-                     
 ![credit ease](home.png)
+
 ![credit ease](form.png)
 ![credit ease](result.png)
 
